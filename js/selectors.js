@@ -8,13 +8,13 @@ var lastImageSelector = function(){
 }
 
 var ninjaBabySelector = function(){
-  $('img#ninja-baby')
+ return  $('#ninja-baby')
 }
 
 var divSelector = function(){
-  $('div.pics')
+  return $('div.pics')
 }
 
 var firstListItem = function(){
- $('ul#pick-list first-child:li') 
+ return$('ul#pick-list first-child:li') 
 }
