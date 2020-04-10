@@ -8,5 +8,13 @@ var lastImageSelector = function(){
 }
 
 var ninjsBabySelector = function(){
-  $()
+  $('#ninja-baby')
+}
+
+var divSelector = function(){
+  $('div.pics')
+}
+
+var firstListItem = function(){
+ $('ul#pick-list first-child:li') 
 }
