@@ -8,5 +8,5 @@ var lastImageSelector = function(){
 }
 
 var ninjsBabySelector = function(){
-  $
+  $()
 }
