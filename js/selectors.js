@@ -4,5 +4,9 @@ var paragrasphSelector = function(){
 }
 
 var lastImageSelector = function(){
-  
+  return $('img:last')
+}
+
+var ninjsBabySelector = function(){
+  $
 }
